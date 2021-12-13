@@ -1,0 +1,8 @@
+Created a index.html file which is home page.
+2.index.css is the styling page of the index.html file.
+3.Three navigation bar is there 1.Home
+2.Contact Details
+3.Menu4.When we click on Home page, Home page will be displayed.
+5.When we click on Menu, Menu will be displayed.
+6.When we click on Contact Details, Contact will be displayed.
+
